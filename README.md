@@ -1,2 +1,3 @@
 # fygithub1
-github pract demo
+github pract demo:wq
+Hello FYCS 2017
